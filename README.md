@@ -24,6 +24,7 @@ TailwindCSS是一个CSS框架，**不是CSS组件库**，它封装了大部分�
 
 ## 后端
 
+[后端Github地址](https://github.com/GDEIDevelopers/Yiwei_Wechat_app_server)
 后端使用Golang，数据库框架使用了 Gorm DB， 为**面向对象**式框架，方便日后对数据的维护
 
 
