@@ -6,7 +6,7 @@ an Open Source version wechat app for yiwei organization
 
 设计图如下
 
-![设计图](https://github.com/MeteorsLiu/PyBot/raw/main/pics/design.png)
+![设计图](https://github.com/GDEIDevelopers/Yiwei_Wechat_app/raw/main/pics/design.png)
 
 
 ## 前端
